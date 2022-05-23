@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Tobiaswidell
-- 👀 I’m interested in ...JAVA and fun codeing projects
 - 🌱 I’m currently learning ... Python
 
 
